@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Heet Dobariya</h1>
 
 <p align="center">
-  <em>Founding Engineer at Serin Labs · Python, LLMs & RAG · Car enthusiast at heart</em>
+  <em>Founding Engineer at Serin Labs · Car enthusiast at heart</em>
 </p>
 
 <p align="center">
